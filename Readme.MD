@@ -41,8 +41,10 @@ Reference images have a name, optional size, and can optionally keep the texture
 
 I would also recommend specifying the real-life size of the marker. If you have a print of it, just measure it on the paper.
 
-Note: Please use arcoreimg tool to check the quality of the image before creating the reference library
+Note: Please use arcoreimg tool to check the quality of the image before creating the reference library.
+
 For downloading arcoreimg tool [Click Here](https://raw.githubusercontent.com/google-ar/arcore-android-sdk/master/tools/arcoreimg/windows/arcoreimg.exe)
+
 For usage [Click Here](https://developers.google.com/ar/develop/c/augmented-images/arcoreimg)
 
 ### Build AR scene 
