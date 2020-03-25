@@ -1,0 +1,2 @@
+globe.jpg|C:\Users\ASUS\Downloads/globe.jpg
+map.jpg|C:\Users\ASUS\Downloads/map.jpg
